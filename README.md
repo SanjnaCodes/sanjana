@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanjana
 - 👀 I’m interested in Java, MySQL, app development, machine learning, and AI.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m proficient in Java.
 
 
 <!---
